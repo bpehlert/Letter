@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header img {
+  width: 60%;
+  padding-left: 25px;
+}
+
+#nav {
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 25px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.container {
+  text-align: center;
+}
